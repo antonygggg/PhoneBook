@@ -2,7 +2,7 @@
 
 
 #### Create and manage contacts list and save as vCard
-#### Made with C# WinForms and Access portable database in 2015 using Visual Studio 2010
+#### Made with C# WinForms and Access portable database in 2015, using Visual Studio 2010
 
 
 ![PhoneBook](https://user-images.githubusercontent.com/36400368/50538080-35e6b480-0b72-11e9-8255-41e6e61074fa.jpg)
